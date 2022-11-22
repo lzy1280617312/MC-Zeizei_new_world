@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2022-11-24 17:50:43 +0800"
+    },
+    "done": true
+  },
   "craftandhunt:recipes/cah/spider_upgraded_to_spider_poison_boots": {
     "criteria": {
       "has_spider_poison_chitin": "2022-11-13 15:33:48 +0800"
@@ -426,7 +432,8 @@
       "baked_potato": "2022-11-13 14:46:38 +0800",
       "potato": "2022-11-12 23:40:22 +0800",
       "bread": "2022-11-13 17:08:04 +0800",
-      "cooked_chicken": "2022-11-14 22:59:59 +0800"
+      "cooked_chicken": "2022-11-14 22:59:59 +0800",
+      "carrot": "2022-11-24 12:44:57 +0800"
     },
     "done": false
   },
@@ -703,6 +710,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2022-11-13 13:59:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2022-11-24 17:50:43 +0800"
     },
     "done": true
   },
@@ -1296,6 +1309,12 @@
     },
     "done": true
   },
+  "atum:core/agriculture": {
+    "criteria": {
+      "melon_stem": "2022-11-23 20:48:58 +0800"
+    },
+    "done": false
+  },
   "craftandhunt:recipes/cah/spider_axe": {
     "criteria": {
       "has_spider_chitin": "2022-11-13 22:01:41 +0800"
@@ -1707,6 +1726,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2022-11-13 16:06:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2022-11-23 11:06:38 +0800"
     },
     "done": true
   },
