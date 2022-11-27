@@ -653,6 +653,15 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2022-11-27 13:03:22 +0800",
+      "minecraft:sheep": "2022-11-27 12:35:20 +0800",
+      "minecraft:cow": "2022-11-27 12:43:01 +0800",
+      "minecraft:chicken": "2022-11-27 13:06:44 +0800"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-11-12 23:20:16 +0800"
@@ -1828,11 +1837,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_mountains": "2022-11-27 13:10:39 +0800",
       "minecraft:forest": "2022-11-12 22:27:47 +0800",
       "minecraft:mountains": "2022-11-12 22:09:41 +0800",
       "minecraft:snowy_tundra": "2022-11-12 22:32:18 +0800",
       "minecraft:frozen_river": "2022-11-12 22:32:17 +0800",
+      "minecraft:birch_forest": "2022-11-27 12:48:20 +0800",
+      "minecraft:beach": "2022-11-27 12:46:19 +0800",
       "minecraft:river": "2022-11-12 22:32:16 +0800",
+      "minecraft:snowy_taiga": "2022-11-27 13:11:05 +0800",
       "minecraft:wooded_mountains": "2022-11-12 22:11:20 +0800",
       "minecraft:swamp": "2022-11-12 22:09:59 +0800",
       "minecraft:plains": "2022-11-12 22:05:51 +0800"
@@ -2016,6 +2029,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2022-11-12 23:17:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2022-11-27 12:35:20 +0800"
     },
     "done": true
   },
