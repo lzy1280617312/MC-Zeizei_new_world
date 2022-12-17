@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2022-12-17 23:30:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-11-12 22:12:54 +0800"
@@ -636,6 +642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2022-12-17 23:30:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_boots": "2022-11-12 23:41:16 +0800"
@@ -1074,6 +1086,7 @@
       "minecraft:birch_forest": "2022-11-27 12:48:20 +0800",
       "minecraft:snowy_beach": "2022-12-03 21:00:53 +0800",
       "minecraft:beach": "2022-11-27 12:46:19 +0800",
+      "minecraft:dark_forest": "2022-12-17 18:03:56 +0800",
       "minecraft:river": "2022-11-12 22:32:16 +0800",
       "minecraft:lukewarm_ocean": "2022-12-03 21:05:32 +0800",
       "minecraft:snowy_taiga": "2022-11-27 13:11:05 +0800",
@@ -1225,6 +1238,12 @@
   "craftandhunt:recipes/cah/fermented_spider_chitin": {
     "criteria": {
       "has_spider_chitin": "2022-11-13 22:01:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2022-12-17 17:39:49 +0800"
     },
     "done": true
   },
@@ -2162,6 +2181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2022-12-17 17:39:49 +0800"
+    },
+    "done": true
+  },
   "craftandhunt:recipes/cah/bone_ash_from_furnace": {
     "criteria": {
       "has_bones": "2022-11-12 22:27:18 +0800"
@@ -2562,6 +2587,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-11-13 13:59:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2022-12-17 23:30:20 +0800"
     },
     "done": true
   },
